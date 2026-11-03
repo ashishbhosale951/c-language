@@ -2,7 +2,7 @@
 
 int main() {
     int marks[5], total = 0;
-    float percentage
+    float percentage;
 
     printf("Enter marks of 5 subjects:\n");
 
