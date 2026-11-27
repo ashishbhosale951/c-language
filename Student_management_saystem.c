@@ -11,7 +11,7 @@ int main() {
     for(i = 1; i <= n; i++) {
         printf("Enter marks of subject %d: ", i);
         scanf("%f", &marks);
-        total = total + 
+        total = total + marks;
     }
 
     average = total / n;
